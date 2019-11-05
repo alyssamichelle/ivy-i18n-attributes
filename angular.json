@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ivy-app"
+    }
+  },
+  "defaultProject": "ivy-app",
+  "cli": {
+    "analytics": "e20dfdf6-69f7-4c84-ae67-2fdb781d91b6"
+  }
 }
